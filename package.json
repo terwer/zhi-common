@@ -1,7 +1,7 @@
 {
-  "name": "common",
+  "name": "zhi-common",
   "version": "0.0.1",
-  "description": "common module for zhi",
+  "description": "the library base for zhi related projects",
   "files": [
     "lib",
     "typings"
@@ -68,7 +68,7 @@
   "dependencies": {
     "zhi-sdk": "^1.0.10"
   },
-  "repository": "terwer/common",
+  "repository": "terwer/zhi-common",
   "homepage": "https://terwer.space",
   "author": "terwer",
   "license": "GPL"
