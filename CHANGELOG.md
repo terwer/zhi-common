@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/terwer/zhi-common/compare/v1.0.3...v1.0.4) (2023-03-14)
+
+
+### Bug Fixes
+
+* fix build ([2e38e65](https://github.com/terwer/zhi-common/commit/2e38e652348492a8540ca87a85791a7dd78062ac))
+
 ## [1.0.3](https://github.com/terwer/zhi-common/compare/v1.0.2...v1.0.3) (2023-03-14)
 
 ### Bug Fixes
