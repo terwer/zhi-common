@@ -9,6 +9,8 @@ if __name__ == "__main__":
     # 切换工作空间
     scriptutils.switch_workdir()
 
+    scriptutils.rm_files("./lib/**/*.d.ts")
+
     # none default dts
     scriptutils.rm_files("./typings/*alpha.d.ts")
     scriptutils.rm_files("./typings/*beta.d.ts")
