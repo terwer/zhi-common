@@ -1,6 +1,6 @@
 {
   "name": "zhi-common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the library base for zhi related projects",
   "files": [
     "lib",
