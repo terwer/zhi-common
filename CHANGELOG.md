@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/terwer/zhi-common/compare/v1.0.5...v1.0.6) (2023-03-14)
+
+
+### Bug Fixes
+
+* remove ref ([b7759b1](https://github.com/terwer/zhi-common/commit/b7759b17d67f6800944acdab35b0099d77b40d32))
+* remove ref ([6732e79](https://github.com/terwer/zhi-common/commit/6732e79033d215466881bb388e620a998bac6198))
+
 ## [1.0.5](https://github.com/terwer/zhi-common/compare/v1.0.4...v1.0.5) (2023-03-14)
 
 
