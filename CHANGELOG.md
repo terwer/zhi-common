@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/terwer/zhi-common/compare/v1.0.6...v1.0.7) (2023-03-15)
+
+
+### Bug Fixes
+
+* update zhi-sdk ([f118c07](https://github.com/terwer/zhi-common/commit/f118c0714bb63a1262b04347bd33dc3f1be85089))
+
 ## [1.0.6](https://github.com/terwer/zhi-common/compare/v1.0.5...v1.0.6) (2023-03-14)
 
 
