@@ -18,7 +18,7 @@
   "typings": "./typings/index.d.ts",
   "scripts": {
     "dev": "vite",
-    "build": "rm -rf ./typings && vite build",
+    "build": "rm -rf ./typings && vite build && cp -r ./lib/* ./src/",
     "test": "vitest",
     "coverage": "vitest run --coverage",
     "lint": "eslint --ext .ts ./src",
@@ -69,7 +69,7 @@
     "zhi-sdk": "^1.0.11"
   },
   "repository": "terwer/zhi-common",
-  "homepage": "https://terwer.space",
+  "homepage": "https://common.terwer.space",
   "author": "terwer",
   "license": "GPL"
 }
