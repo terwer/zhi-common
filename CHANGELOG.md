@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.1.0](https://github.com/terwer/zhi-common/compare/v1.0.7...v1.1.0) (2023-03-16)
+
+
+### Features
+
+* update docs ([2220d6d](https://github.com/terwer/zhi-common/commit/2220d6d6b559f4ba10781b80c1170492f27d3a87))
+
+
+### Bug Fixes
+
+* fix dts error ([445f023](https://github.com/terwer/zhi-common/commit/445f02358d6e8fc569afb2e78348e4f251153725))
+* update zhi-sdk ([a48fa10](https://github.com/terwer/zhi-common/commit/a48fa10c124c6ff0af47be39cefe32b0515b0013))
+
+
+### Miscellaneous
+
+* **deps-dev:** bump vitepress from 1.0.0-alpha.58 to 1.0.0-alpha.60 ([21ab960](https://github.com/terwer/zhi-common/commit/21ab960f834f83854a741c72b9975dc8dcd7a682))
+
 ## [1.0.7](https://github.com/terwer/zhi-common/compare/v1.0.6...v1.0.7) (2023-03-15)
 
 
