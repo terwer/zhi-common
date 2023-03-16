@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/terwer/zhi-common/compare/v1.1.0...v1.1.1) (2023-03-16)
+
+
+### Miscellaneous
+
+* update license ([0c3757f](https://github.com/terwer/zhi-common/commit/0c3757fb2b9d2dadbb65964ca4eb61049e52f2ad))
+
 ## [1.1.0](https://github.com/terwer/zhi-common/compare/v1.0.7...v1.1.0) (2023-03-16)
 
 
