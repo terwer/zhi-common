@@ -2,57 +2,49 @@
 
 ## [1.1.1](https://github.com/terwer/zhi-common/compare/v1.1.0...v1.1.1) (2023-03-16)
 
-
 ### Miscellaneous
 
-* update license ([0c3757f](https://github.com/terwer/zhi-common/commit/0c3757fb2b9d2dadbb65964ca4eb61049e52f2ad))
+- update license ([0c3757f](https://github.com/terwer/zhi-common/commit/0c3757fb2b9d2dadbb65964ca4eb61049e52f2ad))
 
 ## [1.1.0](https://github.com/terwer/zhi-common/compare/v1.0.7...v1.1.0) (2023-03-16)
 
-
 ### Features
 
-* update docs ([2220d6d](https://github.com/terwer/zhi-common/commit/2220d6d6b559f4ba10781b80c1170492f27d3a87))
-
+- update docs ([2220d6d](https://github.com/terwer/zhi-common/commit/2220d6d6b559f4ba10781b80c1170492f27d3a87))
 
 ### Bug Fixes
 
-* fix dts error ([445f023](https://github.com/terwer/zhi-common/commit/445f02358d6e8fc569afb2e78348e4f251153725))
-* update zhi-sdk ([a48fa10](https://github.com/terwer/zhi-common/commit/a48fa10c124c6ff0af47be39cefe32b0515b0013))
-
+- fix dts error ([445f023](https://github.com/terwer/zhi-common/commit/445f02358d6e8fc569afb2e78348e4f251153725))
+- update zhi-sdk ([a48fa10](https://github.com/terwer/zhi-common/commit/a48fa10c124c6ff0af47be39cefe32b0515b0013))
 
 ### Miscellaneous
 
-* **deps-dev:** bump vitepress from 1.0.0-alpha.58 to 1.0.0-alpha.60 ([21ab960](https://github.com/terwer/zhi-common/commit/21ab960f834f83854a741c72b9975dc8dcd7a682))
+- **deps-dev:** bump vitepress from 1.0.0-alpha.58 to 1.0.0-alpha.60 ([21ab960](https://github.com/terwer/zhi-common/commit/21ab960f834f83854a741c72b9975dc8dcd7a682))
 
 ## [1.0.7](https://github.com/terwer/zhi-common/compare/v1.0.6...v1.0.7) (2023-03-15)
 
-
 ### Bug Fixes
 
-* update zhi-sdk ([f118c07](https://github.com/terwer/zhi-common/commit/f118c0714bb63a1262b04347bd33dc3f1be85089))
+- update zhi-sdk ([f118c07](https://github.com/terwer/zhi-common/commit/f118c0714bb63a1262b04347bd33dc3f1be85089))
 
 ## [1.0.6](https://github.com/terwer/zhi-common/compare/v1.0.5...v1.0.6) (2023-03-14)
 
-
 ### Bug Fixes
 
-* remove ref ([b7759b1](https://github.com/terwer/zhi-common/commit/b7759b17d67f6800944acdab35b0099d77b40d32))
-* remove ref ([6732e79](https://github.com/terwer/zhi-common/commit/6732e79033d215466881bb388e620a998bac6198))
+- remove ref ([b7759b1](https://github.com/terwer/zhi-common/commit/b7759b17d67f6800944acdab35b0099d77b40d32))
+- remove ref ([6732e79](https://github.com/terwer/zhi-common/commit/6732e79033d215466881bb388e620a998bac6198))
 
 ## [1.0.5](https://github.com/terwer/zhi-common/compare/v1.0.4...v1.0.5) (2023-03-14)
 
-
 ### Bug Fixes
 
-* fix build ([639968c](https://github.com/terwer/zhi-common/commit/639968c461755897a8b2906cb5af5cf6c42de715))
+- fix build ([639968c](https://github.com/terwer/zhi-common/commit/639968c461755897a8b2906cb5af5cf6c42de715))
 
 ## [1.0.4](https://github.com/terwer/zhi-common/compare/v1.0.3...v1.0.4) (2023-03-14)
 
-
 ### Bug Fixes
 
-* fix build ([2e38e65](https://github.com/terwer/zhi-common/commit/2e38e652348492a8540ca87a85791a7dd78062ac))
+- fix build ([2e38e65](https://github.com/terwer/zhi-common/commit/2e38e652348492a8540ca87a85791a7dd78062ac))
 
 ## [1.0.3](https://github.com/terwer/zhi-common/compare/v1.0.2...v1.0.3) (2023-03-14)
 
