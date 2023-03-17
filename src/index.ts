@@ -33,7 +33,7 @@ class ZhiUtil {
        * 公共类库
        */
       const common = ZhiUtil.zhiSdkObj.common
-      logger.info(common.strUtil.f("ZhiSdk inited, components are available now,like logger, env and so on."))
+      logger.info(common.strUtil.f("ZhiSdk inited, components are available now, like logger, env and so on."))
     }
     return ZhiUtil.zhiSdkObj
   }
