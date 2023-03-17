@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/terwer/zhi-common/compare/v1.1.3...v1.2.0) (2023-03-17)
+
+
+### Features
+
+* fix publish error ([c5c0aa9](https://github.com/terwer/zhi-common/commit/c5c0aa9a255782c31d84854e3d5999b052fadaf2))
+
 ## [1.1.3](https://github.com/terwer/zhi-common/compare/v1.1.2...v1.1.3) (2023-03-17)
 
 
