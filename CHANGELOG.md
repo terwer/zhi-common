@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.2](https://github.com/terwer/zhi-common/compare/v1.1.1...v1.1.2) (2023-03-17)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump stylelint-config-standard from 30.0.1 to 31.0.0 ([f47e80c](https://github.com/terwer/zhi-common/commit/f47e80ce130d12a0a1a496a0c1b21ed4adc76100))
+* **deps-dev:** bump typescript from 4.9.5 to 5.0.2 ([29cb39e](https://github.com/terwer/zhi-common/commit/29cb39eefdd36743a2ad82129c2f504b79ca78c5))
+* update deps ([36c5a32](https://github.com/terwer/zhi-common/commit/36c5a324d102189a61bc79baea28a601eb703c54))
+* update license ([d561298](https://github.com/terwer/zhi-common/commit/d561298c1e83783b38b377e6a32c220e566af651))
+* update zhi-sdk ([d261b2a](https://github.com/terwer/zhi-common/commit/d261b2a9d67c978de93bff73619fc8b48243ae59))
+
 ## [1.1.1](https://github.com/terwer/zhi-common/compare/v1.1.0...v1.1.1) (2023-03-16)
 
 ### Miscellaneous
