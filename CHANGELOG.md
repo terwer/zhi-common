@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/terwer/zhi-common/compare/v1.1.2...v1.1.3) (2023-03-17)
+
+
+### Miscellaneous
+
+* update deps ([9948d7a](https://github.com/terwer/zhi-common/commit/9948d7a67d11ea9781268f0f5d0698b465214260))
+
 ## [1.1.2](https://github.com/terwer/zhi-common/compare/v1.1.1...v1.1.2) (2023-03-17)
 
 
